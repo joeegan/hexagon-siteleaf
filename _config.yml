@@ -5,6 +5,7 @@ collections:
   selected-projects:
     title: Selected projects
     output: true
+    layout: selected-project
   uploads:
     title: Uploads
     output: true
