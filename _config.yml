@@ -5,15 +5,20 @@ collections:
   selected-projects:
     title: Selected projects
     output: true
-    layout: selected-project
   uploads:
     title: Uploads
     output: true
 
 defaults:
-
-- scope:
-    path: '/selected-projects/mayfair-apartment/'
-    type: selected-project
-  values:
-    layout: selected-project
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "home"
+  -
+    scope:
+      path: ""
+      type: "selected-projects"
+    values:
+      layout: "selected-project"
