@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class=' home'>
+    <div id='outer'>
+      <div id='nav'>
+        <div id='nav-inner'>
+          <a class='logo' href='/'>
+            <img src='/images/logo.jpg' width='190' />
+          </a>
+          <ul class='top'>
+            <li>
+              <a class='selected' href='/'>
+                Home
+              </a>
+            </li>
+            <li>
+              <a class=' about' href='/about'>
+                About
+              </a>
+            </li>
+            <li>
+              <a class=' selected-projects' href='/selected-projects'>
+                Selected Projects
+              </a>
+            </li>
+            <li>
+              <a class=' project-list' href='/project-list'>
+                Project List
+              </a>
+            </li>
+            <li>
+              <a class=' clients' href='/clients'>
+                Clients
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id='nav-lower'>
+      </div>
+      <div class='content'>
+        {{content}}
+      </div>
+      {% include footer.html %}
+  </body>
+</html>
