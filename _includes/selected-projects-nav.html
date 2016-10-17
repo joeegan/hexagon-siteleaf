@@ -3,10 +3,12 @@
     {% for project in site.selected-projects %}
       {% if page.title == project.title} %}
         {% assign className = 'selected' %}
+      {% else %}
+        {% assign className = '' %}
       {% endif %}
       <li>
         <a class='{{className}}'
-           href='{{page.url}}'>
+           href='{{project.url}}'>
           {{project.title}}
         </a>
       </li>

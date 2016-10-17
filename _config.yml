@@ -33,3 +33,4 @@ defaults:
     type: selected-projects
   values:
     layout: selected-project
+  Images: []
