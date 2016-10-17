@@ -1,5 +1,13 @@
 ---
 title: Canon Place
+date: 2016-10-17 20:38:00 Z
+Images:
+- "/uploads/01_Cannon%20Place.jpg"
+- "/uploads/02_Cannon%20Place.jpg"
+- "/uploads/03_Cannon%20Place.jpg"
+- "/uploads/04_Cannon%20Place.jpg"
+- "/uploads/05_Cannon%20Place.jpg"
+- "/uploads/06_Cannon%20Place.jpg"
 ---
 
 The top two floors of this Hampstead townhouse were extensively remodelled and refurbished to create a generous two bedroom maisonette.
