@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2016-10-16 15:14:00 Z
+position: 2
 ---
 
 Hexagon Construction is a building and refurbishment contractor.
