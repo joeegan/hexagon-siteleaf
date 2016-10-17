@@ -1,0 +1,69 @@
+.solid-nav #nav {
+}
+#nav {
+   padding: 15px 0 0;
+   overflow: hidden;
+   position: fixed;
+   background: white;
+   width: 1000px;
+   margin: 0 auto;
+   top: 0;
+}
+.news #nav {
+}
+#nav-inner {
+   overflow: hidden;
+   border-bottom: 1px solid #000;
+   margin-bottom: 10px;
+}
+#nav-lower {
+   height: 35px;
+   display: none;
+}
+
+.selected-projects #nav-lower {
+   display: block;
+   top: 106px;
+   width: 1000px;
+   position: fixed;
+   padding-bottom: 10px;
+   background: white;
+}
+
+#nav a.logo {
+   float: left;
+}
+
+#nav img {
+   margin-bottom: 16px;
+}
+#nav-lower ul,
+#nav ul {
+   text-align: right;
+}
+#nav ul ul {
+}
+
+#nav-lower ul.top,
+#nav ul.top {
+   float: right;
+   margin: 62px 0 0 0;
+}
+#nav-lower li,
+#nav li {
+   display: inline-block;
+   padding: 0 0 0 15px;
+}
+#nav-lower a,
+#nav a {
+   text-decoration: none;
+   color: #aaa;
+}
+#nav-lower a:hover,
+#nav a:hover {
+   color: #222;
+}
+#nav-lower a.selected,
+#nav a.selected {
+   color: #222;
+}

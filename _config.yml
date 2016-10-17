@@ -18,6 +18,12 @@ defaults:
       layout: "home"
   -
     scope:
+      path: "about.markdown"
+      type: "pages"
+    values:
+      layout: "two-col"
+  -
+    scope:
       path: ""
       type: "selected-projects"
     values:
