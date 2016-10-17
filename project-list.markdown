@@ -177,7 +177,6 @@ Size: N/A
 Contract: Maintenance Contract
 
 ## Westbourne Park Villas W11
-<p>
 Luxury kitchen fit out for exclusive West London home
 <br />
 Size: 400sq ft
