@@ -23,6 +23,11 @@ defaults:
   values:
     layout: two-col
 - scope:
+    path: project-list.markdown
+    type: pages
+  values:
+    layout: one-col
+- scope:
     path: ''
     type: selected-projects
   values:
