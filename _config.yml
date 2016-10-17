@@ -8,6 +8,7 @@ collections:
   selected-projects:
     title: Selected projects
     output: true
+    Images: Add an image
   uploads:
     title: Uploads
     output: true
