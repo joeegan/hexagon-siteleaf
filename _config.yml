@@ -2,6 +2,9 @@
 title: hexagon
 timezone: UTC
 collections:
+  latest-news:
+    title: Latest News
+    output: true
   posts:
     title: Posts
     output: true
