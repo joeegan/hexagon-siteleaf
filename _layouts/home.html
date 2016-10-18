@@ -7,7 +7,28 @@
       <div id='nav-lower'>
       </div>
       <div class='content'>
-        {{content}}
+        <div class='col1'>
+          <h2>Latest News</h2>
+          {% for newsItem in site.latest-news %}
+            <div class='media'>
+              <div class='pull-left'>
+                <img src='{{newsItem.Image}}' />
+              </div>
+              <div class='media-body'>
+                <h2 class='date'>{{ newsItem.date | date: '%d.%m.%Y' }}</h2>
+                <h3>
+                  {{newsItem.title}}
+                </h3>
+                {{newsItem.content}}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+        <div class='col2'>
+        </div>
+        <div class='col3'>
+          {{content}}
+        </div>
       </div>
       {% include footer.html %}
   </body>
