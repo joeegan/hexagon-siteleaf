@@ -7,7 +7,7 @@ collections:
     output: true
   news-archive:
     title: News Archive
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
