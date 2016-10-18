@@ -6,12 +6,11 @@ position: 0
 
 ## Contact
 
-<address>
-Hexagon Construction Ltd
-6th Floor 
-23-25 Eastcastle Street 
-London W1W 8DF
-</address>
+Hexagon Construction Ltd<br/>
+6th Floor <br/>
+23-25 Eastcastle Street <br/>
+London W1W 8DF<br/>
+<br/>
 +44 (0) 20 7580 5966
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
@@ -32,9 +31,9 @@ Bookkeeping and office management experience essential.
 
 Please forward a copy of your current cv, together with a covering letter to:
 
-Hexagon Construction Ltd 
-6th Floor 
-23-25 Eastcastle Street 
+Hexagon Construction Ltd <br/>
+6th Floor <br/>
+23-25 Eastcastle Street <br/>
 London W1W 8DF
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
