@@ -4,15 +4,10 @@ timezone: UTC
 collections:
   latest-news:
     title: Latest News
-    output: true
-    Image: Add an image
-    Date: Add a date
+    output: false
   news-archive:
     title: News Archive
-    output: true
-    Image: Add an image
-    Date: Add a date
-    Link: Add a link e.g. /selected-projects/leinster-gardens
+    output: false
   posts:
     title: Posts
     output: true
@@ -45,3 +40,14 @@ defaults:
   values:
     layout: selected-project
     Images: []
+- scope:
+    type: latest-news
+  values:
+    Image: ''
+    Date: ''
+- scope:
+    type: news-archive
+  values:
+    Image: ''
+    Link: e.g. /selected-projects/leinster-gardens
+    Date: ''
