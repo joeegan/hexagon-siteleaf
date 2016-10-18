@@ -10,21 +10,40 @@
         <div class='col1'>
           <h2>Latest News</h2>
           {% for newsItem in site.latest-news %}
-            <div class='media'>
-              <div class='pull-left'>
-                <img src='{{newsItem.Image}}' />
-              </div>
-              <div class='media-body'>
-                <h2 class='date'>{{ newsItem.date | date: '%d.%m.%Y' }}</h2>
-                <h3>
-                  {{newsItem.title}}
-                </h3>
-                {{newsItem.content}}
-              </div>
+          <div class='media'>
+            <div class='pull-left'>
+              <img src='{{newsItem.Image}}' />
             </div>
+            <div class='media-body'>
+              <h2 class='date'>{{ newsItem.date | date: '%d.%m.%Y' }}</h2>
+              <h3>
+                {{newsItem.title}}
+              </h3>
+              {{newsItem.content}}
+            </div>
+          </div>
           {% endfor %}
         </div>
         <div class='col2'>
+          {% for newsItem in site.news-archive %}
+          <div class='media'>
+            <a href='selected-projects/leinster-gardens'>
+              <img src='{{newsItem.Image}}' width='215' />
+            </a>
+            <h2 class='date'>{{ newsItem.date | date: '%d.%m.%Y' }}</h2>
+            <h3>
+              <a href='selected-projects/leinster-gardens'>
+                {{newsItem.title}}
+              </a>
+            </h3>
+            {{newsItem.content}}
+            {% if newsItem.link %}
+              <a class='view' href='{{newsItem.Link}}'>
+                View this project
+              </a>
+            {% endif %}
+          </div>
+          {% endfor %}
         </div>
         <div class='col3'>
           {{content}}
