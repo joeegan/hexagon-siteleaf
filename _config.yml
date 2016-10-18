@@ -5,9 +5,8 @@ collections:
   latest-news:
     title: Latest News
     output: true
-  posts:
-    title: Posts
-    output: true
+    Image: Add an image
+    Date: Add a date
   selected-projects:
     title: Selected projects
     output: true
