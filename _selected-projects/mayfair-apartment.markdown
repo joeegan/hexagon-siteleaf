@@ -1,6 +1,7 @@
 ---
 title: Mayfair Apartment
 date: 2016-10-15 22:14:00 Z
+position: 0
 Images:
 - "/uploads/01_Mayfair.jpg"
 - "/uploads/02_Mayfair.jpg"
