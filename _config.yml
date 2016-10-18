@@ -7,6 +7,14 @@ collections:
     output: true
     Image: Add an image
     Date: Add a date
+  news-archive:
+    title: News Archive
+    output: true
+    Image: Add an image
+    Date: Add a date
+  posts:
+    title: Posts
+    output: true
   selected-projects:
     title: Selected projects
     output: true
