@@ -25,19 +25,21 @@
           {% endfor %}
         </div>
         <div class='col2'>
-          {% for newsItem in site.news-archive %}
+          <h2>News Archive</h2>
+          {{site.collections}}
+          {% for item in site.collections.news-archive %}
           <div class='media'>
             <a href='selected-projects/leinster-gardens'>
               <img src='{{newsItem.Image}}' width='215' />
             </a>
-            <h2 class='date'>{{ newsItem.date | date: '%d.%m.%Y' }}</h2>
+            <h2 class='date'>{{ item.date | date: '%d.%m.%Y' }}</h2>
             <h3>
               <a href='selected-projects/leinster-gardens'>
-                {{newsItem.title}}
+                {{item.title}}
               </a>
             </h3>
             {{newsItem.content}}
-            {% if newsItem.link %}
+            {% if item.Link %}
               <a class='view' href='{{newsItem.Link}}'>
                 View this project
               </a>
