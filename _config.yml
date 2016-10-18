@@ -4,7 +4,7 @@ timezone: UTC
 collections:
   latest-news:
     title: Latest News
-    output: false
+    output: true
   news-archive:
     title: News Archive
     output: false
