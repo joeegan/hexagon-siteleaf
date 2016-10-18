@@ -41,11 +41,13 @@ defaults:
     layout: selected-project
     Images: []
 - scope:
+    path: ''
     type: latest-news
   values:
     Image: ''
     Date: ''
 - scope:
+    path: ''
     type: news-archive
   values:
     Image: ''
