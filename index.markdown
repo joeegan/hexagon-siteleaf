@@ -28,7 +28,7 @@ We are seeking a talented senior project manager with a minimum 4 years resident
 ### Accounting Manager:
 Bookkeeping and office management experience essential.
 
-### Please forward a copy of your current cv, together with a covering letter to:
+Please forward a copy of your current cv, together with a covering letter to:
 
 Hexagon Construction Ltd 
 6th Floor 
