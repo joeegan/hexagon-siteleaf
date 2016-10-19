@@ -26,11 +26,10 @@
         </div>
         <div class='col2'>
           <h2>News Archive</h2>
-          {{site.collections}}
-          {% for item in site.collections.news-archive %}
+          {% for item in site.news-archive %}
           <div class='media'>
             <a href='selected-projects/leinster-gardens'>
-              <img src='{{newsItem.Image}}' width='215' />
+              <img src='{{item.Image}}' width='215' />
             </a>
             <h2 class='date'>{{ item.date | date: '%d.%m.%Y' }}</h2>
             <h3>
@@ -38,9 +37,9 @@
                 {{item.title}}
               </a>
             </h3>
-            {{newsItem.content}}
+            {{item.content}}
             {% if item.Link %}
-              <a class='view' href='{{newsItem.Link}}'>
+              <a class='view' href='{{item.Link}}'>
                 View this project
               </a>
             {% endif %}
