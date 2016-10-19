@@ -1,8 +1,9 @@
 ---
 title: Upper Brook Street
 date: 2016-10-18 19:56:00 Z
-Date: 2013-04-07 20:13:00 Z
 Image: "/uploads/005_UBS.jpg"
+Date: 2013-04-07 20:13:00 Z
+Link: 
 ---
 
 Hexagon have completed Phase 1 of a refurbishment of an exclusive mansion block apartment next door to Le Gavroche in the heart of Mayfair.
