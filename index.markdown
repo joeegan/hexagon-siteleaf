@@ -7,9 +7,8 @@ position: 0
 ## Contact
 
 Hexagon Construction Ltd<br/>
-6th Floor <br/>
-23-25 Eastcastle Street <br/>
-London W1W 8DF<br/>
+166A Tower Bridge Rd <br/>
+London SE1 3LZ<br/>
 +44 (0) 20 7580 5966
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
