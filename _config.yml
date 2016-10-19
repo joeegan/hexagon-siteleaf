@@ -30,7 +30,7 @@ defaults:
   values:
     layout: two-col
 - scope:
-    path: project-list.markdown
+    path: ''
     type: pages
   values:
     layout: one-col
@@ -45,6 +45,7 @@ defaults:
     type: latest-news
   values:
     Image: ''
+    Link: ''
     Date: ''
 - scope:
     path: ''

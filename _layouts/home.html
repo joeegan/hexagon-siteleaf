@@ -12,7 +12,13 @@
           {% for newsItem in site.latest-news %}
           <div class='media'>
             <div class='pull-left'>
+              {% if newsItem.Link.size > 0 %}
+              <a href='{{newsItem.Link}}'>
+              {% endif %}
               <img src='{{newsItem.Image}}' />
+              {% if newsItem.Link.size > 0 %}
+              </a>
+              {% endif %}
             </div>
             <div class='media-body'>
               <h2 class='date'>{{ newsItem.date | date: '%d.%m.%Y' }}</h2>
@@ -20,6 +26,11 @@
                 {{newsItem.title}}
               </h3>
               {{newsItem.content}}
+              {% if newsItem.Link.size > 0 %}
+                <a class='view' href='{{newsItem.Link}}'>
+                  View this project
+                </a>
+              {% endif %}
             </div>
           </div>
           {% endfor %}
@@ -28,17 +39,19 @@
           <h2>News Archive</h2>
           {% for item in site.news-archive %}
           <div class='media'>
-            <a href='selected-projects/leinster-gardens'>
-              <img src='{{item.Image}}' width='215' />
+            {% if item.Link.size > 0 %}
+            <a href='{{item.Link}}'>
+            {% endif %}
+            <img src='{{item.Image}}' width='215' />
+            {% if item.Link.size > 0 %}
             </a>
+            {% endif %}
             <h2 class='date'>{{ item.date | date: '%d.%m.%Y' }}</h2>
             <h3>
-              <a href='selected-projects/leinster-gardens'>
-                {{item.title}}
-              </a>
+              {{item.title}}
             </h3>
             {{item.content}}
-            {% if item.Link %}
+            {% if item.Link.size > 0 %}
               <a class='view' href='{{item.Link}}'>
                 View this project
               </a>
