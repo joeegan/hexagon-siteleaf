@@ -10,7 +10,6 @@ Hexagon Construction Ltd<br/>
 6th Floor <br/>
 23-25 Eastcastle Street <br/>
 London W1W 8DF<br/>
-<br/>
 +44 (0) 20 7580 5966
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
