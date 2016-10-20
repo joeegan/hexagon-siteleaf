@@ -1,0 +1,17 @@
+<div id='nav-lower'>
+  <ul class='secondary'>
+    {% for project in site.selected-projects %}
+      {% if page.title == project.title} %}
+        {% assign className = 'selected' %}
+      {% else %}
+        {% assign className = '' %}
+      {% endif %}
+      <li>
+        <a class='{{className}}'
+           href='{{project.url}}'>
+          {{project.title}}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

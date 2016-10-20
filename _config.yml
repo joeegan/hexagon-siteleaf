@@ -1,0 +1,56 @@
+---
+title: hexagon
+timezone: UTC
+collections:
+  latest-news:
+    title: Latest News
+    output: true
+  news-archive:
+    title: News Archive
+    output: true
+  posts:
+    title: Posts
+    output: true
+  selected-projects:
+    title: Selected projects
+    output: true
+    Images: Add an image
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: index.markdown
+    type: pages
+  values:
+    layout: home
+- scope:
+    path: about.markdown
+    type: pages
+  values:
+    layout: two-col
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: one-col
+- scope:
+    path: ''
+    type: selected-projects
+  values:
+    layout: selected-project
+    Images: []
+- scope:
+    path: ''
+    type: latest-news
+  values:
+    Image: ''
+    Link: ''
+    Date: ''
+- scope:
+    path: ''
+    type: news-archive
+  values:
+    Image: ''
+    Link: ''
+    Date: ''

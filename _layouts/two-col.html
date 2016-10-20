@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class='about'>
+    <div id='outer'>
+      {% include nav.html %}
+      <div id='nav-lower'>
+      </div>
+      <div class='content'>
+        <div class='col1'>
+          <div class='media'>
+            <div class='pull-left'>
+              <h1 class='visuallyhidden'>
+                {{page.title}}
+              </h1>
+              {{content}}
+            </div>
+          </div>
+        </div>
+        <div class='media-body'>
+          {% for src in page.Images %}
+            <img src='{{ src }}'/>
+          {% endfor %}
+        </div>
+      </div>
+      {% include footer.html %}
+  </body>
+</html>
