@@ -54,5 +54,5 @@ defaults:
     Image: ''
     Link: ''
     Date: ''
-Footer Address: Hexagon Construction Ltd, 166A Tower Bridge Rd, London SE1 3LZ
-Footer Email: <a href="mailto:admin@hexagonconstruction.com">admin@hexagonconstruction.com</a>
+FooterAddress: Hexagon Construction Ltd, 166A Tower Bridge Rd, London SE1 3LZ
+FooterEmail: <a href="mailto:admin@hexagonconstruction.com">admin@hexagonconstruction.com</a>
