@@ -1,6 +1,7 @@
 ---
 title: Mayfair Apartment
 date: 2016-10-18 20:03:00 Z
+position: 2
 Image: "/uploads/004_Mayfair%20Apartment.jpg"
 Date: 2013-02-28 00:00:00 Z
 Link: "/selected-projects/mayfair-apartment"
