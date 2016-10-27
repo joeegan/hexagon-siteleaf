@@ -6,6 +6,7 @@ position: 0
 
 ## Contact
 
+**Head Office**<br/>
 Hexagon Construction Ltd<br/>
 166A Tower Bridge Rd <br/>
 London SE1 3LZ<br/>
@@ -13,7 +14,7 @@ London SE1 3LZ<br/>
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
 
-Accounts Office
+**Accounts Office**<br/>
 Hexagon Construction Ltd<br/>
 Hillcrest, Marshfield <br/>
 Wiltshire SN14 8JL<br/>
