@@ -13,6 +13,12 @@ London SE1 3LZ<br/>
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
 
+Accounts Office
+Hexagon Construction Ltd<br/>
+Hillcrest, Marshfield <br/>
+Wiltshire SN14 8JL<br/>
++44 (0) 1225 892 289
+
 ## About
 
 Hexagon Construction is Building and Refurbishment Contractor.
