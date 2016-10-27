@@ -28,17 +28,14 @@ We deliver projects that achieve excellence in design and the highest quality of
 
 ## Careers
 
-### Project Manager:
-We are seeking a talented senior project manager with a minimum 4 years residential experience to work on a series of exciting projects across multiple scales and sectors.
-
-### Accounting Manager:
-Bookkeeping and office management experience essential.
+### QS / Contract Manager:
+We are seeking a talented senior QS / Contract Manager with a minimum 4 years residential experience to work on a series of exciting projects across multiple scales and sectors.
 
 Please forward a copy of your current cv, together with a covering letter to:
 
-Hexagon Construction Ltd <br/>
-6th Floor <br/>
-23-25 Eastcastle Street <br/>
-London W1W 8DF
+Hexagon Construction Ltd<br/>
+Hillcrest, Marshfield <br/>
+Wiltshire SN14 8JL<br/>
++44 (0) 1225 892 289
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
