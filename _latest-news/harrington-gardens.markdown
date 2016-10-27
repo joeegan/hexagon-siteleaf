@@ -1,6 +1,7 @@
 ---
 title: Harrington Gardens
 date: 2016-03-03 18:59:00 Z
+position: 3
 Image: "/uploads/HG.jpg"
 Date: 2016-03-14 00:00:00 Z
 ---

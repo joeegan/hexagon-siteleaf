@@ -1,6 +1,7 @@
 ---
 title: Riverview Gardens
 date: 2016-10-19 21:32:00 Z
+position: 7
 Image: "/uploads/001_Riverview.jpg"
 Date: 2012-11-30 00:00:00 Z
 Link: "/selected-projects/riverview-gardens"
