@@ -3,7 +3,7 @@ title: Legal
 date: 2016-10-19 21:39:00 Z
 ---
 
-The use of this website is subject to the following terms of use:
+<p>The use of this website is subject to the following terms of use:</p>
 
 * The content of the pages of this website is for your general information and use only. It is subject to change without notice.
 
