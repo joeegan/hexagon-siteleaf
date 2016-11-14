@@ -1,5 +1,5 @@
 ---
-title: Canon Place
+title: Cannon Place
 date: 2016-10-19 21:31:00 Z
 position: 3
 Image: "/uploads/002_Cannon%20Place.jpg"
