@@ -9,7 +9,8 @@
       <div class='content'>
         <div class='col1'>
           <h2>Latest News</h2>
-          {% for newsItem in site.latest-news %}
+          {% assign sorted = site.latest-news | sort:"date" | reverse %}
+          {% for newsItem in sorted %}
           <div class='media'>
             <div class='pull-left'>
               {% if newsItem.Link.size > 0 %}
