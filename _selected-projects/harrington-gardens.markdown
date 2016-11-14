@@ -12,4 +12,7 @@ Images:
 
 A 7000 sq ft Victorian property in South Kensington, originally one single dwelling converted in the eighties into eight flats consisting of lots of small rooms and narrow corridors, now extensively remodeled into three spacious luxury flats.
 
-The building is tall and unusually wide with generous ceiling heights, it has now been thoughtfully rearranged to enhance features and reintroduce natural light and volume throughout each of the three flats.
+This was a large and challenging construction project, extensive temporary structural works were required to allow the full demolition of all internal structural elements. The 5 storey property was fully underpinned to allow for basement excavation. A new roof extension and re-modelling of the front and rear light wells contributed to the complexity of sequencing the works.
+
+The three exquisite London properties were finished to the highest standard with a variety of luxury materials, fine cabinetry and the latest home technologies.  
+
