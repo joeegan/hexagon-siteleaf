@@ -9,7 +9,7 @@
       <div class='content'>
         <div class='col1'>
           <h2>Latest News</h2>
-          {% assign sorted = site.latest-news | sort:"date" | reverse %}
+          {% assign sorted = site.latest-news | sort:"Date" | reverse %}
           {% for newsItem in sorted %}
           <div class='media'>
             <div class='pull-left'>
@@ -22,7 +22,7 @@
               {% endif %}
             </div>
             <div class='media-body'>
-              <h2 class='date'>{{ newsItem.date | date: '%d.%m.%Y' }}</h2>
+              <h2 class='date'>{{ newsItem.Date | date: '%d.%m.%Y' }}</h2>
               <h3>
                 {{newsItem.title}}
               </h3>
