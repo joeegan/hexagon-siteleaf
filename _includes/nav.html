@@ -15,7 +15,8 @@
         </a>
       </li>
       <li>
-        <a class='{% if page.url contains 'selected-projects' %}selected{% endif %} selected-projects' href='{{site.selected-projects.first.url}}'>
+        {% assign sorted = site.selected-projects | sort:'position' %}
+        <a class='{% if page.url contains 'selected-projects' %}selected{% endif %} selected-projects' href='{{sorted.first.url}}'>
           Selected Projects
         </a>
       </li>
