@@ -1,6 +1,7 @@
 <div id='nav-lower'>
   <ul class='secondary'>
-    {% for project in site.selected-projects %}
+    {% assign sorted = site.selected-projects | sort:'position' %}
+    {% for project in sorted %}
       {% if page.title == project.title} %}
         {% assign className = 'selected' %}
       {% else %}
