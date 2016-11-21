@@ -3,7 +3,6 @@ title: Harrington Gardens
 date: 2016-11-14 11:47:00 Z
 position: 0
 Images:
-- "/uploads/Home%20&%20Gardens%20article%20pg1%20edit.jpg"
 - "/uploads/Harrington%20dining%20and%20living.jpg"
 - "/uploads/harrington%20living%203.jpg"
 - "/uploads/Harrington%20appartment%201%20living.jpg"
