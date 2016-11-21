@@ -3,6 +3,7 @@ title: Bo Drake
 date: 2016-01-09 19:50:00 Z
 position: 0
 Image: "/uploads/GreekStreet.jpg"
+Link: "/selected-project/bo-drake"
 Date: 2016-03-16 00:00:00 Z
 ---
 
