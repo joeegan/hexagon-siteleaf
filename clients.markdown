@@ -4,6 +4,18 @@ date: 2016-10-15 22:20:00 Z
 position: 3
 ---
 
+**LDP Partners LLP**
+Property investors
+
+**Paper House Project**
+Architectural Practice
+
+**Kitesgrove**
+Boutique design practice
+
+**Londonwide Properties PLC**
+Property developers
+
 **Bulgari UK**
 Luxury Jewellers
 
