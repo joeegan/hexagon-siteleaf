@@ -1,6 +1,7 @@
 ---
 title: Bulgari
 date: 2013-02-08 20:58:00 Z
+position: 1
 Image: "/uploads/004_Bulgari.jpg"
 Date: 2012-06-21 00:00:00 Z
 ---
