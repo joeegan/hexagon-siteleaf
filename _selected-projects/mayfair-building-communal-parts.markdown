@@ -6,7 +6,7 @@ Images:
 - "/uploads/CHRIS-EGAN-0978-Edit.jpg"
 ---
 
-Hexagon Construction were commissioned to carry out complete refurbishment, Interior design and install process to this mansion block apartment communal parts in the heart of Mayfair. 
+Hexagon Construction were commissioned to carry out complete refurbishment and Interior design to this mansion block apartment communal parts in the heart of Mayfair. 
 
 The building was extensively remodeled and comprehensively refurbished to create a luxurious property in central London.
 
