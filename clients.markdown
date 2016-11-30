@@ -4,10 +4,10 @@ date: 2016-10-15 22:20:00 Z
 position: 3
 ---
 
-**[LDP Partners LLP](https://www.paperhouseproject.co.uk/)**
+**LDP Partners LLP**
 Property Investors
 
-**Paper House Project**
+**[Paper House Project](https://www.paperhouseproject.co.uk/)**
 Architectural Practice
 
 **Kitesgrove**
