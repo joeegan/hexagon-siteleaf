@@ -1,7 +1,8 @@
 ---
 title: Queen's Gate
-date: 2016-11-30 18:53:00 Z
+date: 2012-12-20 18:53:00 Z
 Image: "/uploads/003_Queens%20Gate.jpg"
+Date: 2012-12-20 00:00:00 Z
 ---
 
 Hexagon have started works on site at Queens Gate in Knightsbridge.
