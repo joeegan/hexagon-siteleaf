@@ -20,7 +20,7 @@ Size: 2800 sq ft
 <br />
 Contract: Traditional
 <br />
-Contract Sum: £750,00
+Contract Sum: £750,000
 
 ## Wealdstone
 New build development of Community Hall and residential accommodation.
@@ -47,7 +47,7 @@ Size: 1800sq ft
 <br />
 Contract: Traditional
 <br />
-Contract Sum: £900,00
+Contract Sum: £900,000
 
 ## Defoe Road N16
 Construction of contemporary private house
@@ -56,7 +56,7 @@ Size: 1200sq ft
 <br />
 Contact: Traditional
 <br />
-Contract Sum: £400,00
+Contract Sum: £400,000
 
 ## Frognal Gardens NW3
 Comprehensive refurbishment and basement extension to luxury apartment
@@ -65,7 +65,7 @@ Size: 1500 sq ft
 <br />
 Contract: Tradtional
 <br />
-Contract Sum: £400,00
+Contract Sum: £400,000
 
 ## Clarence Terrace, Regents Park NW1
 Comprehensive refurbishment of Nash building apartment
@@ -74,7 +74,7 @@ Size: 1500 sq ft
 <br />
 Contract Traditional
 <br />
-Contract Sum: £300,00
+Contract Sum: £300,000
 
 
 ## Greek Street W1
