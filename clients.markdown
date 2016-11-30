@@ -10,19 +10,19 @@ Property Investors
 **[Paper House Project](https://www.paperhouseproject.co.uk/)**
 Architectural Practice
 
-**Kitesgrove**
+**[Kitesgrove](http://www.kitesgrove.com/projects/)**
 Boutique Design Practice
 
 **Londonwide Properties PLC**
 Property Developers
 
-**Bulgari UK**
+**[Bulgari UK](http://www.bulgari.com/en-gb/)**
 Luxury Jewellers
 
 **Certcroft Ltd**
 Property Management Company
 
-**Shelter From the Storm**
+**[Shelter From the Storm](http://sfts.org.uk/)**
 Homeless Charity
 
 **St John The Evangelist N1**
@@ -34,10 +34,10 @@ Prime London Luxury Property Developers
 **Yasmine Ltd**
 Property Management Company
 
-**Together Design**
+**[Together Design](http://www.togetherdesign.co.uk/)**
 Graphic Design Company
 
-**Stamos Yeoh Architects**
+**[Stamos Yeoh Architects](http://www.stamosyeoharchitects.com/)**
 Architectural Practice
 
 **Egan Wiesner Ltd**
