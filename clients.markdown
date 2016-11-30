@@ -5,16 +5,16 @@ position: 3
 ---
 
 **LDP Partners LLP**
-Property investors
+Property Investors
 
 **Paper House Project**
 Architectural Practice
 
 **Kitesgrove**
-Boutique design practice
+Boutique Design Practice
 
 **Londonwide Properties PLC**
-Property developers
+Property Developers
 
 **Bulgari UK**
 Luxury Jewellers
@@ -26,10 +26,10 @@ Property Management Company
 Homeless Charity
 
 **St John The Evangelist N1**
-RC church
+RC Church
 
 **PCL Partnership**
-Prime London Luxury property developers
+Prime London Luxury Property Developers
 
 **Yasmine Ltd**
 Property Management Company
