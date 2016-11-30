@@ -1,5 +1,5 @@
 ---
-title: Mayfair Apartment
+title: Mayfair Apt
 date: 2016-10-15 22:14:00 Z
 position: 2
 Images:
