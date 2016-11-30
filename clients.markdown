@@ -49,5 +49,5 @@ Graphic Design Company
 **[Stamos Yeoh Architects](http://www.stamosyeoharchitects.com/)**
 Architectural Practice
 
-**Egan Wiesner Ltd**
+**[Egan Wiesner Ltd](http://www.christopher-egan.com/)**
 Architectural Practice
