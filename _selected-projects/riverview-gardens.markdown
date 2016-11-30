@@ -8,4 +8,4 @@ Images:
 - "/uploads/3-riverview-gardens.jpg"
 ---
 
-Hexagon Construction carried out a comprehensive refurbishment of this charming mansion block apartment. A completely new layout was created and the project involved the installation of an acoustic floor that was subject to riguorous testing by acoustic engineers to meet the criterea set by the managing agents of the block.
+Hexagon Construction carried out a comprehensive refurbishment of this charming mansion block apartment. A completely new layout was created and the project involved the installation of an acoustic floor that was subject to rigorous testing by acoustic engineers to meet the criteria set by the managing agents of the block.
