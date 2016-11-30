@@ -7,7 +7,7 @@ Images:
 - "/uploads/CHRIS-EGAN-0138.jpg"
 ---
 
-Hexagon Construction were commissioned to carry out extensive remodeling and refurbishment of this central London apartment  
+Hexagon Construction were commissioned to carry out extensive remodeling and refurbishment of this central London apartment.
 
 The layout of the apartment was reconfigured to provide new bathrooms, en suite and kitchen facilities.
 
