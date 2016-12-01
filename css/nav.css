@@ -40,6 +40,7 @@
 #nav-lower ul,
 #nav ul {
    text-align: right;
+   padding: 0;
 }
 #nav ul ul {
 }
