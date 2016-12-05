@@ -1,7 +1,7 @@
 ---
 title: Islington Loft
 date: 2016-10-17 21:01:00 Z
-position: 6
+position: 9
 Images:
 - "/uploads/1-islington-loft.jpg"
 - "/uploads/2-islington-loft.jpg"
