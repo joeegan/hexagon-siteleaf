@@ -1,5 +1,5 @@
 ---
-title: Mayfair Mansion Block
+title: Mayfair
 date: 2016-11-29 14:35:00 Z
 position: 4
 Images:
