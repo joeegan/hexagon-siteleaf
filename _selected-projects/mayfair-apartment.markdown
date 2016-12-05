@@ -1,7 +1,7 @@
 ---
 title: Mayfair Apt
 date: 2016-10-15 22:14:00 Z
-position: 6
+position: 3
 Images:
 - "/uploads/01_Mayfair.jpg"
 - "/uploads/02_Mayfair.jpg"
