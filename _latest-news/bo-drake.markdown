@@ -1,5 +1,5 @@
 ---
-title: Bo Drake
+title: Bo Drake Soho
 date: 2015-03-11 19:50:00 Z
 position: 0
 Image: "/uploads/Bo-Drake%20news.jpg"
