@@ -5,4 +5,4 @@ Image: "/uploads/Rotherwick%20news%20image.jpg"
 Date: 2016-11-30 00:00:00 Z
 ---
 
-Hexagon begin new build office project working with [Carmody Groarke Architects] (http://www.carmodygroarke.com/)
+Hexagon begin new build office project working with [Carmody Groarke Architects](http://www.carmodygroarke.com/)
