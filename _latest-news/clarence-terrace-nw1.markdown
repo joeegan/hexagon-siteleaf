@@ -1,5 +1,5 @@
 ---
-title: Clarence Terrace NW1
+title: Clarence Terrace
 date: 2017-01-20 11:55:00 Z
 Image: "/uploads/clarence%20news.jpg"
 Date: 2017-01-20 00:00:00 Z
