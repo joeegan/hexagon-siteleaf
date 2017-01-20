@@ -5,4 +5,4 @@ Image: "/uploads/hillcrest%20news%20image-1cec9b.jpg"
 Date: 2017-01-19 00:00:00 Z
 ---
 
-Super-structure is under way at Hillcrest
+Super-structure construction under way.  
