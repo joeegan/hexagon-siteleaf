@@ -22,7 +22,7 @@ Wiltshire SN14 8JL<br/>
 
 ## About
 
-Hexagon Construction is Building and Refurbishment Contractor.
+Hexagon Construction is a Building and Refurbishment Contractor.
 
 We deliver projects that achieve excellence in design and the highest quality of finish.
 
