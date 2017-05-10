@@ -6,4 +6,5 @@ Date: 2016-12-06 00:00:00 Z
 ---
 
 Hexagon hand over a completed project for [Paper House Project](http://www.paperhouseproject.co.uk). This warehouse was converted to a contemporary private home. 
-View this project.
+
+[View this project.](http://hexagonconstruction.com/selected-projects/defoe-road.html)
