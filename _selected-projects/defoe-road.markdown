@@ -17,5 +17,5 @@ A 115 sqm derelict warehouse in Hackney dating from around 1890 converted to an 
 
 Working with [Paper House Project](https://www.paperhouseproject.co.uk/), Hexagon installed the complex structural interventions to open up the space and add light and height to create a practical, modern space. Bespoke extended leg steel trusses and cable rod supports were installed to support the new slate roof and a high-level perimeter ring beam with concrete corner bonders holds the original brick envelope together, whilst allowing large new window openings to be formed.
 
-The project has been shortlisted for the RICS Awards 2017 and featured in [Grand Designs Magazine](http:///uploads/058_GDS_0617.pdf).
+The project has been shortlisted for the RICS Awards 2017 and featured in [Grand Designs Magazine](http:///www.uploads/058_GDS_0617.pdf).
 
