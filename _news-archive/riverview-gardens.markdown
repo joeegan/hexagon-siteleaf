@@ -1,7 +1,7 @@
 ---
 title: Riverview Gardens
 date: 2012-11-30 18:47:00 Z
-position: 0
+position: 1
 Image: "/uploads/1-riverview-gardens.jpg"
 Link: http://hexagonconstruction.com/selected-projects/riverview-gardens.html
 Date: 2012-11-30 00:00:00 Z
