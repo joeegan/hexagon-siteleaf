@@ -12,7 +12,7 @@ Hexagon Construction Ltd<br/>
 London SE1 3LZ<br/>
 +44 (0) 20 7580 5966
 
-**Accounts Office**<br/>
+**Regional Office**<br/>
 Hexagon Construction Ltd<br/>
 Hillcrest, Marshfield <br/>
 Wiltshire SN14 8JL<br/>
