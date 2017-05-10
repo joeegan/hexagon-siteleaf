@@ -11,7 +11,6 @@ Images:
 - "/uploads/Screen%20Shot%202017-05-10%20at%2011.11.29.png"
 - "/uploads/Screen%20Shot%202017-05-10%20at%2011.12.25.png"
 - "/uploads/Screen%20Shot%202017-05-10%20at%2011.12.10.png"
-- "/uploads/058_GDS_0617.pdf"
 ---
 
 A 115 sqm derelict warehouse in Hackney dating from around 1890 converted to an open-plan two bedroom house with an industrial aesthetic.
