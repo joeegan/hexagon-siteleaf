@@ -2,7 +2,6 @@
 title: Defoe Road
 date: 2017-05-10 09:32:00 Z
 Images:
-- "/uploads/Screen%20Shot%202017-05-10%20at%2011.11.59.png"
 - "/uploads/Screen%20Shot%202017-05-10%20at%2011.11.09.png"
 - "/uploads/Defoe%20rd%20living%203.jpg"
 - "/uploads/Defoe%20rd%20living%205.jpg"
@@ -11,6 +10,7 @@ Images:
 - "/uploads/Screen%20Shot%202017-05-10%20at%2011.11.29.png"
 - "/uploads/Screen%20Shot%202017-05-10%20at%2011.12.25.png"
 - "/uploads/Screen%20Shot%202017-05-10%20at%2011.12.10.png"
+- "/uploads/Screen%20Shot%202017-05-10%20at%2011.11.59.png"
 ---
 
 A 115 sqm derelict warehouse in Hackney dating from around 1890 converted to an open-plan two bedroom house with an industrial aesthetic.
