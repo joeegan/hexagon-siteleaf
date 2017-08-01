@@ -6,3 +6,4 @@ Link: http://hexagonconstruction.com/selected-projects/defoe-road.html
 Date: 2017-08-01 00:00:00 Z
 ---
 
+Defoe Road and its Architect [Paperhouse Project](https://www.paperhouseproject.co.uk/) have been short-listed for the [AJ Retrofit 2017 Award](https://retrofit.architectsjournal.co.uk/)
