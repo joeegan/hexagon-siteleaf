@@ -8,8 +8,8 @@ position: 0
 
 **Head Office**<br/>
 Hexagon Construction Ltd<br/>
-166A Tower Bridge Rd <br/>
-London SE1 3LZ<br/>
+8 Blackstock Mews <br/>
+London N4 2BT<br/>
 +44 (0) 20 7580 5966
 
 **Regional Office**<br/>
