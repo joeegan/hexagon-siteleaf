@@ -1,6 +1,7 @@
 ---
 title: Thomas Moore Square
 date: 2018-02-08 15:52:00 Z
+Image: "/uploads/Thomas%20Moore%20news-b19598.jpg"
 Date: 2017-09-14 00:00:00 Z
 ---
 
