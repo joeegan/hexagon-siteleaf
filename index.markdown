@@ -6,12 +6,11 @@ position: 0
 
 ## Contact
 
-+44 (0) 20 7580 5966
-
-**Registered Office**<br/>
+**Head Office**<br/>
 Hexagon Construction Ltd<br/>
-8 Blackstock Mews <br/>
-London N4 2BT<br/>
+62a Balcombe Street <br/>
+London NW1 6NE<br/>
++44 (0) 20 7580 5966
 
 **Regional Office**<br/>
 Hexagon Construction Ltd<br/>
