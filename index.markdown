@@ -5,12 +5,13 @@ position: 0
 ---
 
 ## Contact
++44 (0) 20 7580 5966
 
-**Head Office**<br/>
+**Registered Office**<br/>
 Hexagon Construction Ltd<br/>
 166A Tower Bridge Rd <br/>
 London SE1 3LZ<br/>
-+44 (0) 20 7580 5966
+
 
 **Regional Office**<br/>
 Hexagon Construction Ltd<br/>
