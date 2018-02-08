@@ -7,6 +7,7 @@ position: 0
 ## Contact
 
 +44 (0) 20 7580 5966
+
 **Registered Office**<br/>
 Hexagon Construction Ltd<br/>
 8 Blackstock Mews <br/>
