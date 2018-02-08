@@ -5,13 +5,12 @@ position: 0
 ---
 
 ## Contact
-+44 (0) 20 7580 5966
 
++44 (0) 20 7580 5966
 **Registered Office**<br/>
 Hexagon Construction Ltd<br/>
-166A Tower Bridge Rd <br/>
-London SE1 3LZ<br/>
-
+8 Blackstock Mews <br/>
+London N4 2BT<br/>
 
 **Regional Office**<br/>
 Hexagon Construction Ltd<br/>
