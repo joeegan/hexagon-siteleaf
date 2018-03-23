@@ -5,3 +5,4 @@ Image: "/uploads/dezeen.png"
 Date: 2018-03-23 00:00:00 Z
 ---
 
+Hexagon project features in [Dezeen Magazine](https://www.dezeen.com/2018/02/25/james-davies-paper-house-project-warehouse-conversion-hackney-london-house/). 
