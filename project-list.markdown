@@ -4,6 +4,15 @@ date: 2016-10-17 20:05:00 Z
 position: 1
 ---
 
+## Carmody Groarke Studio
+Fit out of 50 person office for high profile architectural practice to occupy
+<br />
+Size: 5000 sq ft
+<br />
+Contract: Traditional 
+<br />
+Contract Sum: ND
+
 ## Harrington Gardens
 Residential development comprising of 3 luxury apartments in Chelsea
 <br />
