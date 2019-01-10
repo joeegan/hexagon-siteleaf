@@ -1,7 +1,7 @@
 ---
 title: Harrington Gardens SW7
 date: 2016-06-07 11:32:00 Z
-position: 4
+position: 24
 Image: "/uploads/Home%20&%20Gardens%20cover.jpg"
 Link: "/selected-projects/harrington-gardens"
 Date: 2016-11-14 00:00:00 Z

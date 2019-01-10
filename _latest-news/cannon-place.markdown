@@ -1,7 +1,7 @@
 ---
 title: Cannon Place
 date: 2016-10-19 21:31:00 Z
-position: 3
+position: 23
 Image: "/uploads/002_Cannon%20Place.jpg"
 Link: "/selected-projects/cannon-place"
 Date: 2012-12-20 00:00:00 Z
