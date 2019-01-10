@@ -7,4 +7,4 @@ Link: http://www.twofiftyonelondon.com/residents-facilities
 Date: 2017-05-01 00:00:00 Z
 ---
 
-Hexagon appointed to fit and furnish amenity spaces for [Allies and Morrison](http://www.alliesandmorrison.com/project/eileen-house/) 41 storey new build project to the north of Elephant and Castle.
+Hexagon appointed to fit and furnish amenity spaces for [Allies and Morrison's](http://www.alliesandmorrison.com/project/eileen-house/) 41 storey new build project to the north of Elephant and Castle.
