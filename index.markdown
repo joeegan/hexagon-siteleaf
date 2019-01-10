@@ -28,9 +28,6 @@ We deliver projects that achieve excellence in design and the highest quality of
 
 ## Careers
 
-### QS / Contract Manager:
-We are seeking a talented senior QS / Contract Manager with a minimum 4 years residential experience to work on a series of exciting projects across multiple scales and sectors.
-
 Please forward a copy of your current cv, together with a covering letter to:
 
 Hexagon Construction Ltd<br/>
