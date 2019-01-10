@@ -4,8 +4,10 @@ date: 2016-10-15 22:20:00 Z
 position: 3
 ---
 
+**[Carmody Groarke Ltd](http://www.carmodygroarke.com/)**
+
 **[ARC Developments](http://www.arc-dev.com/)**
-Property Development Company
+Architects
 
 **[Cavendish Moffat](http://cavendishmoffat.com/)**
 Property Development Company
