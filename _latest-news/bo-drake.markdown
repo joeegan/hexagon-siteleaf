@@ -1,7 +1,7 @@
 ---
 title: Bo Drake Soho
 date: 2015-03-11 19:50:00 Z
-position: 0
+position: 20
 Image: "/uploads/Bo-Drake%20news.jpg"
 Link: "/selected-project/bo-drake"
 Date: 2016-03-16 00:00:00 Z
