@@ -20,7 +20,7 @@ Wiltshire SN14 8JL<br/>
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
 
-## About
+## Aboutx
 
 Hexagon Construction is a Building and Refurbishment Contractor.
 
