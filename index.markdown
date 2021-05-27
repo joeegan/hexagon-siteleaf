@@ -4,7 +4,7 @@ date: 2016-10-15 23:13:00 Z
 position: 0
 ---
 
-## Contactx
+## Contact
 
 **Head Office**<br/>
 Hexagon Construction Ltd<br/>
@@ -20,7 +20,7 @@ Wiltshire SN14 8JL<br/>
 
 [admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
 
-## Aboutx
+## About
 
 Hexagon Construction is a Building and Refurbishment Contractor.
 
