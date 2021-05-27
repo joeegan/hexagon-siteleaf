@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /latest-news/*
-Disallow: /news-archive/*
