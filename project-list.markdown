@@ -4,6 +4,60 @@ date: 2016-10-17 20:05:00 Z
 position: 1
 ---
 
+## Tudor Road E9
+Refurbishment of warehouse apartment in Hackney
+<br />
+Size: 2000 sq ft
+<br />
+Contract: Traditional
+<br />
+Contract Sum: ND
+
+## Fawe Street E14
+Refurbishment of large warehouse apartment in Poplar
+<br />
+Size: 4500 sq ft
+<br />
+Contract: Traditional
+<br />
+Contract Sum: ND
+
+## Cannon Place NW3 
+Extension and refurbishment of luxury duplex apartment in Hampstead
+<br />
+Size: 2000 sq ft
+<br />
+Contract: Traditional
+<br />
+Contract Sum: ND
+
+## Biddulph Mansions W9
+Extension and refurbishment of luxury apartment in Maida Vale
+<br />
+Size: 1500 sq ft
+<br />
+Contract: Traditional
+<br />
+Contract Sum: ND
+
+## Bywater Street SW3
+Refurbishment of luxury home in Chelsea
+<br />
+Size: 2200 sq ft
+<br />
+Contract: Traditional
+<br />
+Contract Sum: ND
+
+## Rotherwick House
+New build office building and refurbishment of Grade I listed property in St Katherines Dock
+<br />
+Size: 2000 sq ft
+<br />
+Contract: Traditional
+<br />
+Contract Sum: ND
+
 ## Carmody Groarke Studio
 Fit out of 50 person office for high profile architectural practice to occupy
 <br />
@@ -13,7 +67,7 @@ Contract: Traditional
 <br />
 Contract Sum: ND
 
-## Harrington Gardens
+## Harrington Gardens SW7
 Residential development comprising of 3 luxury apartments in Chelsea
 <br />
 Size: 7000 sq ft
