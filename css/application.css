@@ -1,0 +1,342 @@
+html {
+   font-family: "Droid Sans", sans-serif;
+   font-size: 12px;
+   background: #fff;
+}
+
+body {
+   width: 1000px;
+   margin: 52px auto;
+}
+
+img {
+   height: auto;
+   max-width: 100%;
+   vertical-align: middle;
+   border: 0;
+   -ms-interpolation-mode: bicubic;
+   margin-bottom: 20px;
+}
+
+h1, h2 {
+   font-size: 12px;
+   line-height: 29px;
+   margin: 3px 0 10px;
+}
+
+h3 {
+   font-size: 15px;
+   line-height: 17px;
+   text-decoration: underline;
+   margin: 3px 0 0px;
+}
+
+a {
+   color: #222;
+}
+
+p {
+   margin: 0 0 1em;
+}
+
+h2 {
+   margin: 0 0 10px;
+   text-decoration: underline;
+}
+
+h2.date {
+   font-size: 12px;
+   line-height: 15px;
+   margin-bottom: 0;
+}
+
+.col1 {
+   width: 249px;
+   float: left;
+}
+
+.col2 {
+   float: right;
+   width: 186px;
+   margin-right: 25px;
+}
+.col3 {
+   float: right;
+   width: 220px;
+}
+
+.home .col1 {
+   width: 472px;
+   margin-right: 72px;
+}
+
+.home .col2 {
+   margin-right: 72px;
+   float: left;
+}
+
+.home .col2 .media {
+   margin-bottom: 40px;
+}
+
+.home .col3 {
+   width: 192px;
+}
+
+.media, .media-body {
+   overflow: hidden;
+   zoom: 1;
+}
+.media .pull-left {
+   margin-right: 25px;
+   float: left;
+}
+
+.media-heading {
+   margin: 0 0 5px;
+}
+.media {
+   margin-bottom: 20px;
+}
+
+.media h2,
+.media h3,
+.media h3 a {
+   text-decoration: none;
+}
+
+.media h3 {
+   margin-top: 0;
+   margin-bottom: .4em;
+}
+
+a.view {
+   font-weight: bold;
+}
+
+.media img {
+   margin-bottom: 10px;
+}
+
+.pull-left {
+   float: left;
+}
+
+.about .pull-left {
+   width: 230px;
+   margin-right: 67px;
+}
+
+.selected-projects .col1 {
+   width: 250px;
+   margin-right: 122px;
+}
+
+.selected-projects .col2 {
+   width: 608px;
+   margin-right: 0;
+}
+
+.none {
+   display: none;
+}
+.block {
+   display: block;
+}
+
+.content {
+   overflow: hidden;
+   margin-top: 142px;
+}
+
+.selected-projects .content {
+   margin-top: 155px;
+}
+
+.accreditation {
+   overflow: hidden;
+   margin-top: 65px;
+   display: none;
+}
+
+.accreditation img {
+   float: right;
+   margin-bottom: 0;
+}
+
+
+.footer {
+   border-top: 1px solid #222;
+   margin: 10px 0 0;
+   padding: 10px 0 10px;
+   overflow: hidden;
+}
+.footer .legal {
+   float: left;
+}
+.footer p {
+   float: right;
+}
+
+.left {
+   float: left;
+}
+.right {
+   float: right;
+}
+img.left, img.right {
+   width: 290px;
+}
+
+address {
+   font-style: normal;
+}
+
+.col3 a {
+   text-decoration: none;
+}
+
+.col3 h3 {
+   margin-bottom: 0;
+   font-size: 12px;
+   text-decoration: none;
+}
+
+.about .col1 {
+   width: auto;
+}
+.project-list h2,
+.clients h2 {
+   margin-bottom: 0;
+   text-decoration: none;
+   line-height: 17px;
+}
+
+.project-list p,
+.clients p {
+   margin-bottom: 2em;
+}
+
+@media (max-width: 767px) {
+
+   html body {
+      width: auto;
+      margin-top: 108px;
+      margin-bottom: 0px;
+   }
+
+   .col1, .col2, .col3 {
+      float: none !important;
+      width: 100% !important;
+   }
+
+   .legal .content > *,
+   .project-list .content > *, .clients .content > *,
+   .col1 > *, .col2 > *, .col3 > * {
+      padding-right: 7px;
+      padding-left: 7px;
+      display: block;
+   }
+   .footer {
+      padding-right: 7px;
+      padding-left: 7px;
+   }
+   body #nav {
+      width: 100%;
+      padding-top: 7px;
+   }
+
+   body #nav img {
+      width: 129px;
+      height: 50px;
+   }
+
+   body #nav a.logo {
+      float: none;
+      margin-left: 7px;
+   }
+
+   body #nav-inner ul.top {
+      float: none;
+      display: block;
+      margin: 0;
+      padding-left: 0;
+      text-align: left;
+   }
+   body.home #nav-lower {
+      margin-top: 141px;
+   }
+
+   body.selected-projects #nav-lower {
+      margin-top: 106px;
+      height: auto;
+      position: static !important;
+      width: auto;
+   }
+
+   body #nav-lower {
+      margin-top: 148px;
+   }
+
+   body #nav-lower ul,
+   body #nav ul {
+      padding-left: 0;
+      margin: 0;
+   }
+   body #nav-lower ul.secondary,
+   body #nav ul.secondary {
+      text-align: left;
+   }
+   body #nav-lower ul.secondary li,
+   body #nav ul.secondary li {
+      display: block;
+   }
+
+   body #nav-lower ul li,
+   body #nav ul li {
+      padding-right: 0px;
+      padding-left: 7px;
+      padding-bottom: 5px;
+   }
+
+   body #nav-lower ul li a {
+      display: block;
+   }
+
+   body .content {
+      margin-top: 0;
+   }
+
+   body .left,
+   body .right {
+      float: none;
+   }
+   body .content img {
+      display: block;
+      height: auto;
+      max-width: 95%;
+   }
+
+   body img.left, body img.right {
+      width: auto;
+   }
+
+   body.selected-projects .content {
+      margin-top: 0;
+   }
+
+   body.selected-projects .col1 {
+      margin-right: 0;
+   }
+
+   .pull-left {
+      width: auto !important;
+      margin-right: 0 !important;
+      float: none !important;
+   }
+
+   body .footer p {
+      float: none !important;
+   }
+
+}
