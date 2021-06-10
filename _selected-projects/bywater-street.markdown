@@ -14,3 +14,4 @@ Images:
 - "/uploads/LowRes_Billy%20Bolton_Paper%20House%20Project_Bywater%20St_112-Edit.jpg"
 ---
 
+The inside of this refurbishment 
