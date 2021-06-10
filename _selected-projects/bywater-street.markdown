@@ -16,5 +16,7 @@ Images:
 
 The interior of this refurbishment was completed with each space a careful balance of contemporary and traditional features, providing a new home that is appropriate to the existing building fabric.
 
-Through an understated material palette and simplicity of detailing, the scheme emphasises the craftsmanship involved in its delivery which can be seen in the range of bespoke joinery and finishes throughout.
+Bespoke fitted joinery and a new staircase maximise the functionality of the internal spaces. Through an understated material palette and clean, simple detailing, the craftsmanship involved in the delivery of these pieces is really brought to the fore.
+
+
 
