@@ -16,7 +16,7 @@ Images:
 
 The interior of this refurbishment was completed with each space a careful balance of contemporary and traditional features, providing a new home that is appropriate to the existing building fabric.
 
-Bespoke fitted joinery and a new staircase maximise the functionality of the internal spaces. Through an understated material palette and clean, simple detailing, the craftsmanship involved in the delivery of these pieces is really brought to the fore.
+Bespoke fitted joinery and a new staircase maximise the functionality of the internal spaces. Through an understated material palette and clean, simple detailing, the craftsmanship involved in the delivery of these items is really brought to the fore.
 
-
+The home now provides a great backdrop for the Owners to inject their personality which is really in-keeping with the character of the cul-de-sac.
 
