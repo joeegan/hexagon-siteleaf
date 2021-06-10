@@ -14,6 +14,6 @@ Images:
 - "/uploads/LowRes_Billy%20Bolton_Paper%20House%20Project_Bywater%20St_112-Edit.jpg"
 ---
 
-The interior of this refurbishment was conceived to be appropriate for the building fabric, with each space a careful balance of contemporary and traditional detailing and features.
+The interior of this refurbishment was delivered with each space a careful balance of contemporary and traditional detailing and features to be appropriate to the existing building fabric.
 
-A refined, understated material palette throughout  has given emphasis to the delivery of the detailing and the craftsmanship involved in its production.
+Through an understated material palette and simplicity of detailing the refurbishment gives an emphasis to the craftsmanship involved in its delivery.
