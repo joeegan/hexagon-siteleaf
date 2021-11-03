@@ -1,5 +1,4 @@
 ---
-encoding: UTF-8
 title: Hexagon Construction London1
 timezone: UTC
 collections:
@@ -55,6 +54,7 @@ defaults:
     Image: ''
     Link: ''
     Date: ''
+encoding: UTF-8
 FooterAddress: Hexagon Construction Ltd, 166A Tower Bridge Rd, London SE1 3LZ
 FooterEmail: <a href="mailto:admin@hexagonconstruction.com">admin@hexagonconstruction.com</a>
 FooterPhoneNumber: "+44 (0) 20 7580 5966"
