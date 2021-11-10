@@ -1,6 +1,6 @@
 ---
 title: Bywater Street
-date: 2021-06-02 08:20:00 Z
+
 Image: "/uploads/LowRes_Billy%20Bolton_Paper%20House%20Project_Bywater%20St_045-HDR-Edit.jpg"
 Date: 2021-06-05 08:20:00 Z
 ---
