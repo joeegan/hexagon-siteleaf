@@ -12,6 +12,7 @@ Images:
 - "/uploads/LowRes_Billy%20Bolton_Paper%20House%20Project_Bywater%20St_099-Edit.jpg"
 - "/uploads/LowRes_Billy%20Bolton_Paper%20House%20Project_Bywater%20St_108-Edit.jpg"
 - "/uploads/LowRes_Billy%20Bolton_Paper%20House%20Project_Bywater%20St_112-Edit.jpg"
+Date: 2021-06-02 08:06:00 Z
 ---
 
 The interior of this refurbishment was completed with each space a careful balance of contemporary and traditional features, providing a new home that is appropriate to the existing building fabric.
