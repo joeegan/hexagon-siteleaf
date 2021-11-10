@@ -6,7 +6,7 @@ position: 0
 
 ## Contact
 
-**Head Office London**<br/>
+**Head Office**<br/>
 Hexagon Construction Ltd<br/>
 62a Balcombe Street <br/>
 London NW1 6NE<br/>
