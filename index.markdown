@@ -8,12 +8,6 @@ position: 0
 
 **Head Office**<br/>
 Hexagon Construction Ltd<br/>
-62a Balcombe Street <br/>
-London NW1 6NE<br/>
-+44 (0) 20 7580 5966
-
-**Regional Office**<br/>
-Hexagon Construction Ltd<br/>
 Hillcrest, Marshfield <br/>
 Wiltshire SN14 8JL<br/>
 +44 (0) 1225 892 289
