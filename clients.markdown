@@ -6,8 +6,8 @@ position: 3
 
 **[Carmody Groarke Ltd](http://www.carmodygroarke.com/)**
 
-**[ARC Developments](http://www.arc-dev.com/)**
-Architects
+**ARC Developments**
+Property Developers
 
 **[Cavendish Moffat](http://cavendishmoffat.com/)**
 Property Development Company
@@ -22,7 +22,7 @@ Property Investors
 Architectural Practice
 
 **[Kitesgrove](http://www.kitesgrove.com/projects/)**
-Boutique Design Practice
+Interior Design Practice
 
 **Londonwide Properties PLC**
 Property Developers
@@ -51,5 +51,5 @@ Graphic Design Company
 **[Stamos Yeoh Architects](http://www.stamosyeoharchitects.com/)**
 Architectural Practice
 
-**[Egan Wiesner Ltd](http://www.christopher-egan.com/)**
-Architectural Practice
+**[Lateral](http://www.lateral.london/)**
+Property Investors
