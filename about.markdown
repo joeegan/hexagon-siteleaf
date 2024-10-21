@@ -5,13 +5,10 @@ position: 2
 Images: "/uploads/about.jpg"
 ---
 
-Hexagon Construction is a building and refurbishment contractor.
+Founded in 2011, our focus is on development management and project management of ambitious architectural projects of the highest quality. We provide a service that goes beyond that of a traditional consultancy.
 
-We are committed to providing a complete building service of the highest standard.
-
-We engage in both traditional procurement and design & build contracts.
-
-Our project managers and construction delivery experts provide a streamlined service for our clients that results in highly coordinated projects featuring excellence in design and the highest standard of craftsmanship.
+Skilled in every area of helping Clients to deliver their building project objectives, 
+our project managers and construction delivery experts provide a streamlined service that results in highly coordinated projects featuring excellence in design and ensuring the highest standard of craftsmanship.
 
 <br/>
-We also provide property maintenance services and have a dedicated maintenance division that serves our commercial and residential clients.
+We also provide Building Surveying services for our commercial and residential clients. 
