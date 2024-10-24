@@ -53,4 +53,4 @@ Graphic Design Company
 Architectural Practice
 
 **[Lateral](http://www.lateral.london/)**
-Property Investors
+Property Investors London
