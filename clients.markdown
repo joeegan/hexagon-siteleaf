@@ -5,6 +5,7 @@ position: 3
 ---
 
 **[Carmody Groarke Ltd](http://www.carmodygroarke.com/)**
+Architects
 
 **ARC Developments**
 Property Developers
