@@ -1,5 +1,5 @@
 ---
-title: Hexagon relocates
+title: Hexagon relocates..
 date: 2024-11-11 12:51:00 Z
 Image: "/uploads/Untitled%204.jpg"
 Date: 2024-11-11 00:00:00 Z
