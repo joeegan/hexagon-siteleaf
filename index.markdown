@@ -12,8 +12,6 @@ position: 0
 
 Hexagon Construction are Building & Refurbishment Contractors and Project Managers.
 
-We operate in Central London, UK
-
 We deliver projects that achieve excellence in design and the highest quality of finish.
 
 ## Careers
