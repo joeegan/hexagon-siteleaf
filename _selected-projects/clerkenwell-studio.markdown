@@ -6,5 +6,5 @@ Images:
 - "/uploads/CG%20Studio-e73cfe-3008fd.jpg"
 ---
 
-This project involved a 5000 sq ft fit out of a commercial office space into an Architectural Studio for [Carmody Groarke Architects](https://www.carmodygroarke.com/) in Clerkenwell, London.
+This project involved a 5000 sq ft fit out of a commercial office space into an Architectural Studio for [Carmody Groarke Architects](https://www.carmodygroarke.com/) in Clerkenwell, London. Hexagon provided a full range services including the joinery packages.
 
