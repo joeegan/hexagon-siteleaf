@@ -1,17 +1,17 @@
 ---
 title: About
 date: 2016-10-16 15:14:00 Z
+published: false
 position: 2
 Images: "/uploads/about.jpg"
 ---
 
-Established in London in 2011, Hexagon has a successful history of providing the full complement of building and professional services required to manage and deliver, architecturally ambitious projects for our clients. We now operate in London, Bath and Bristol.
+Established in London in 2011, Hexagon has a successful history of providing the full complement of building and professional services required to manage and deliver, architecturally ambitious projects for our clients. 
+
+We now operate in London, Bath and Bristol.
 
 With considered project leadership, extensive technical and management expertise, we are experts at streamlining the building process even in the most challenging circumstances. 
 
-Our passion is in executing highly coordinated projects featuring excellence in design and ensuring the highest standard of craftsmanship.
+Our passion is in executing highly coordinated projects, featuring excellence in design and ensuring the highest standard of craftsmanship.
 
 Hexagon provide a service that goes beyond that of a traditional consultants.
-
-<br/>
-We also provide Building Surveying services for our commercial and residential clients. 
