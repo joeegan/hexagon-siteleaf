@@ -5,10 +5,13 @@ position: 2
 Images: "/uploads/about.jpg"
 ---
 
-Founded in 2011, our focus is on delivering ambitious architectural projects of the highest quality. Whether it be acting as Main Contractor or as Project Managers, we provide a service that goes beyond that of a traditional Consultants and Contractors.
+Established in London in 2011, Hexagon has a successful history of providing the full complement of building and professional services required to manage and deliver, architecturally ambitious projects for our clients. We now operate in London, Bath and Bristol.
 
-Skilled in every area of helping Clients to deliver their building project objectives, 
-our project managers and construction delivery experts provide a streamlined service that results in highly coordinated projects featuring excellence in design and ensuring the highest standard of craftsmanship.
+With considered project leadership, extensive technical and management expertise, we are experts at streamlining the building process even in the most challenging circumstances. 
+
+Our passion is in executing highly coordinated projects featuring excellence in design and ensuring the highest standard of craftsmanship.
+
+Hexagon provide a service that goes beyond that of a traditional consultants.
 
 <br/>
 We also provide Building Surveying services for our commercial and residential clients. 
