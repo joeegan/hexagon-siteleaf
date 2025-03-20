@@ -10,9 +10,7 @@ position: 0
 
 ## About
 
-Hexagon Construction are Building & Refurbishment Contractors and Project Managers.
-
-Having established in London in 2011, we now operate from the South West of the UK, in the Bristol & Bath area.
+Having established in London in 2011, Hexagon has a successful history of providing the full complement of building and professional services required to manage and deliver architecturally ambitious projects for our clients. We now operate in London, Bath and Bristol.
 
 ## Careers
 
