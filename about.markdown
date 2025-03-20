@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2016-10-16 15:14:00 Z
-published: false
 position: 2
 Images: "/uploads/about.jpg"
 ---
