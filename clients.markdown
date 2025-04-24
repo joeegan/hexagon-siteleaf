@@ -2,6 +2,8 @@
 title: Clients
 date: 2016-10-15 22:20:00 Z
 position: 3
+page_title: Clients
+description: Collaborators with Egan Associates
 ---
 
 **[Carmody Groarke Ltd](http://www.carmodygroarke.com/)**
