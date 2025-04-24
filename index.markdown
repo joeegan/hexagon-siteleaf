@@ -9,7 +9,7 @@ description: 'Established in London in 2011, Hexagon has a successful history of
 
 ## Contact
 
-[admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
+[admin@hexagon.associates](mailto:admin@hexagon.associates)
 
 ## About
 
@@ -22,4 +22,4 @@ We now operate in London, Bath and Bristol.
 
 Please forward a copy of your current cv, together with a covering letter to:
 
-[admin@hexagonconstruction.com](mailto:admin@hexagonconstruction.com)
+[admin@hexagon.associates](mailto:admin@hexagon.associates)
