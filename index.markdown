@@ -18,6 +18,16 @@ for our clients.
 
 We now operate in London, Bath and Bristol.
 
+## Services
+
+- Project Management
+- Construction Management
+- Design Management
+- Employers Agent
+- Client Representative
+- Contract Administration
+- Building Surveying Services
+
 ## Careers
 
 Please forward a copy of your current cv, together with a covering letter to:
