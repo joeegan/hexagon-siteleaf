@@ -1,6 +1,8 @@
 ---
 title: Legal
 date: 2016-10-19 21:39:00 Z
+page_title: Legal
+description: Legal terms and conditions for the Egan Associates website
 ---
 
 The use of this website is subject to the following terms of use:
