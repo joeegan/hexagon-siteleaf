@@ -3,7 +3,7 @@ title: Project list
 date: 2016-10-17 20:05:00 Z
 position: 1
 description: A list of the latest projects facilitated by Egan Associates
-page_title: Latest projects
+page_title: Project list
 ---
 
 ## Carmody Groarke Studio
